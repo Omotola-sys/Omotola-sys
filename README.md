@@ -3,6 +3,7 @@
 - My journey spans multiple domains within cybersecurity, and I believe in the power of continuous learning to adapt to our ever-evolving threat landscape.
 - 🎯 My approach combines technical expertise with strategic thinking to create comprehensive security solutions that protect organizations from both current and emerging threats.
 - Areas of Expertise
+  
 - 🌐 Networking & Infrastructure Security
 - Network architecture and security design
 - Firewall configuration and management
@@ -38,20 +39,18 @@
 - Compliance program development
 - Security policy creation and implementation
 - Audit preparation and remediation
+  
 - 🌱 I’m I'm continuously expanding my knowledge in:
 - Advanced persistent threat (APT) analysis
 - Zero-trust architecture implementation
 - AI-powered security automation
 - Cloud-native security solutions
 - Emerging compliance frameworks
+  
 - 💞️ I’m looking to collaborate on Industry-Specific Security Solutions
 - 📫 How to reach me:
 -  LinkedIn: https://www.linkedin.com/in/omotola-osibanjo/
 -  Email: tolaosibanjo1@gmail.com 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
-
-<!---
-Omotola-sys/Omotola-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I'm a travel enthusiast who collects fridge magnets from every destination, but what really excites me is discovering how different countries approach cybersecurity.
+- From GDPR in Europe to unique threat landscapes in Asia, each magnet reminds me of the diverse global cybersecurity ecosystem I've learned about.
