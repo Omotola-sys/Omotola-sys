@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omotola Osibanjo. Preferred as Tola.
+## - 👋 Hi, I’m @Omotola Osibanjo. Preferred as Tola.
 - 👀 I’m a dedicated cybersecurity professional with a passion for protecting digital assets and staying ahead of emerging threats.
 - My journey spans multiple domains within cybersecurity, and I believe in the power of continuous learning to adapt to our ever-evolving threat landscape.
 - 🎯 My approach combines technical expertise with strategic thinking to create comprehensive security solutions that protect organizations from both current and emerging threats.
